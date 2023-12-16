@@ -1,0 +1,24 @@
+body{
+    display: flex;
+     flex-direction: row !important;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: flex-start;  }
+ .card{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 300px;
+    height: 400px;
+    border: 7px solid blue!important;
+}
+.card-body{
+    color: orange!important;
+}
+.card-header{
+       background-color: brown!important;
+       color: aqua !important;
+       font-weight: bolder;
+       font-size:larger;
+    }
+ 
+ 
